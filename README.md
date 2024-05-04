@@ -42,8 +42,3 @@
 - If you think it will recognise person just like humans,than leave it ,its not possible.
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
-
-## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
-
-## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
